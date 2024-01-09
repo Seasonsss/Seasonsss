@@ -1,0 +1,39 @@
+/* Rocco Caggiano 11-16-23 Final PRoject*/
+
+body {
+	background-color: #D2B48C;
+}
+
+header img { 
+	width: 100%;
+}
+
+nav {
+	font-family: Lucida, "Times New Roman", serif;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+}
+
+nav ul {
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+nav li {
+	background-color: #FFFAF0;
+	list-style-type: none;
+	margin: 0.4em;
+	padding: 0.5em;
+}
+
+nav li a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.floatright { float: right;
+margin-left: 3%;
+max-width: 50%;
+}
